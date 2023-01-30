@@ -1,2 +1,3 @@
 # hello-world
-Starting a github formy college class.
+Starting a github for my college class.
+My name is Kile and i **love** building computers and technology
